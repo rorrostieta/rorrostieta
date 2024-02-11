@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center"> Ruben Orrostieta </h1>
 
-<!--
-**rorrostieta/rorrostieta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 About me:
+- Currently working as a Data Scientist on AI/ML @ **PepsiCo** 🥤
+- Began self taught and now expecting my **Master's on Dec 2024** 🎓
+- **Passionate** about coding, research & development and building great solutions! 🧪
+- From hero to a better hero!⚡**chemical engineer to data scientist** in 2 years!
 
-Here are some ideas to get you started:
+### 🛠️ Technologies:
+- 🐍 **Python:** Machine Learning, Computer Vision, Deep Learning, AI . . .
+- 🧮 **R:** Statistics, Regression, Design of Experiments . . .
+- 🗃️ **SQL:** Anlytics, Preprocessing, Management . . .
+- ✨Always **learning** new tools . . .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔮 Future Me:
+- Finish my formal education with the **University of Colodado Boulder** 🦬
+- Learning multiple **cloud technologies & platforms** ☁️ currently Azure & GCP
+
+I thank you for taking the time to look my portfolio, feel free to reach out if you want to collaborate!
